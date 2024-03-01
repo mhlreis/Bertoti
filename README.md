@@ -3,6 +3,10 @@ IHC
 
 Exemplo da página:
 
+https://github.com/mhlreis/Bertoti/blob/main/heuristica.png
+
+https://github.com/mhlreis/Bertoti/blob/main/heuristica1.png
+
 
 
 Heuristica 1 - Visibility of system status
