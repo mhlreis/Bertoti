@@ -14,7 +14,7 @@ Heuristica 3 - User control and freedom
 
 Não é exibido nenhum botão de voltar, avançar, home ou qualquer tipo de opção de navegação.
 
-<img="https://github.com/mhlreis/Bertoti/blob/main/img/heuristica1.png" alt="Heuristica3">
+<img src="https://github.com/mhlreis/Bertoti/blob/main/img/heuristica1.png" alt="Heuristica3">
 
 
 Heuristica 10 - Help and documentation
