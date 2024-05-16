@@ -49,7 +49,7 @@ Heuristica 1 - Visibility of system status
 O design de opções através de pastas e subpastas não é muito amigável, fazendo que o usuário se perca ou tenha que ficar passando por todas as opções para encontrar o que procura.
 
 Exemplo tela:
-<img src="" alt="Modulo de pastas e subpastas">
+<img src="https://github.com/mhlreis/Bertoti/blob/main/img/SigaHeuristica1.png" alt="Modulo de pastas e subpastas">
 
 
 
@@ -59,7 +59,7 @@ Heuristica 9 - Help Users Recognize, diagnose and recover from errors
 Não é fornecida nenhuma informação sobre a quantidade de atestados solicitados ou o máximo de solicitações permitidas. Apenas após realizar uma nova solicitação é exibida a mensagem de erro.
 
 Exemplo tela:
-<img src="" alt="Tela sem informações de consulta">
+<img src="https://github.com/mhlreis/Bertoti/blob/main/img/SigaHeuristica9.png" alt="Tela sem informações de consulta">
 
 
 
@@ -69,7 +69,7 @@ Heuristica 7 - Flexibility and efficiency of use
 Ná página de consultas de pregões não há um filtro para selecionarmos um pregão específico. Sendo necessário percorrer toda a lista para encontrar o pregão desejado.
 
 Exemplo tela:
-<img src="" alt="Tela sem filtro de busca">
+<img src="https://github.com/mhlreis/Bertoti/blob/main/img/GovMaHeuristica7.png" alt="Tela sem filtro de busca">
 
 
 
